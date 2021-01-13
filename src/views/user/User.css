@@ -1,0 +1,48 @@
+.Register-Plane {
+    text-align: left;
+    /*background-color: lightgray;*/
+    border: 1px solid lightgray;
+    border-radius: 4px;
+}
+
+.Register-Title {
+    background-color: lightgray;
+    padding-top: 10px;
+}
+
+.Register-Title.Light {
+    color: gray;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    margin-left: 10px;
+}
+
+.Register-Item {
+    min-height: 32px;
+    text-align: left;
+    margin-top: 10px;
+    padding-left: 10px;
+}
+
+.Register-Item.Center {
+    text-align: center;
+    vertical-align: bottom;
+}
+
+.Login-Plane {
+    text-align: left;
+    border: 1px solid lightgray;
+    border-radius: 4px;
+}
+
+.Login-Title {
+    background-color: lightgray;
+    padding-top: 10px;
+}
+
+.Login-Title.Light {
+    color: gray;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    margin-left: 10px;
+}
