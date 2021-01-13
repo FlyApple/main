@@ -105,5 +105,5 @@ dist
 .tern-port
 
 # 
-/src/config/dev.ts
-/src/config/prod.ts
+src/config/dev.ts
+src/config/prod.ts
